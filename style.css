@@ -70,10 +70,12 @@ a {
 .btn-light {
   background: #1abc9c;
   color: #fff;
+  transition: all 0.4s ease;
 }
 .btn-dark {
   background: #333;
   color: #fff;
+  transition: all 0.4s ease;
 }
 .btn-light:hover {
   background-color: #f4f4f4;
